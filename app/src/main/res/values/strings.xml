@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ArchProduct</string>
+    <string name="title">Title</string>
+    <string name="price">Price</string>
+    <string name="description">Description</string>
+    <string name="add_to_favourite">Add to favourite</string>
+    <string name="get_all_products">Get All Products</string>
+    <string name="get_favourites">Get Favourites</string>
+    <string name="exit">Exit</string>
+</resources>
